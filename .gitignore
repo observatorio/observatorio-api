@@ -1,0 +1,14 @@
+###Python###
+
+*.py[cod]
+
+# Packages
+venv
+bin
+var
+
+#locales
+*.local.py
+*.ropeproject
+*.sublime*
+

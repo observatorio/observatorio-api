@@ -1,0 +1,12 @@
+Flask==0.9
+Flask-Evolution==0.6
+Flask-REST==1.1
+Flask-SQLAlchemy==0.16
+Flask-Script==0.5.1
+Jinja2==2.6
+SQLAlchemy==0.7.9
+Werkzeug==0.8.3
+argparse==1.2.1
+distribute==0.6.27
+gviz-data-table==0.9.1
+wsgiref==0.1.2
